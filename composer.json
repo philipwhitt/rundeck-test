@@ -1,0 +1,5 @@
+{
+	"require" : {
+		"rundeck/rundeck-client" : "1.*"
+	}
+}
